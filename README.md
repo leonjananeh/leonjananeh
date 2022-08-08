@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonjananeh
-- 👀 I’m interested in Python
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me by mail ( leon.jananeh@gmail.com )
 
