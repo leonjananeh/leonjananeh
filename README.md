@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leonjananeh
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in IT
 - 📫 How to reach me by mail ( leon.jananeh@gmail.com )
 
 <!---
